@@ -4,13 +4,13 @@ A RAG-powered medical chatbot built with Python, LangChain, Ollama, ChromaDB, an
 
 ## Features
 
-- 📄 Upload medical PDF documents
-- 🔍 Semantic search with ChromaDB vector storage
-- 💬 Chat interface with source citations (filename + page numbers)
-- ⚠️ Medical safety disclaimers and emergency guidance
-- 🔒 Persistent knowledge base across restarts
-- 🚫 Duplicate document detection
-- 🛡️ Graceful error handling for missing context and API failures
+-  Upload medical PDF documents
+-  Semantic search with ChromaDB vector storage
+-  Chat interface with source citations (filename + page numbers)
+-  Medical safety disclaimers and emergency guidance
+-  Persistent knowledge base across restarts
+-  Duplicate document detection
+-  Graceful error handling for missing context and API failures
 
 ## Architecture
 
